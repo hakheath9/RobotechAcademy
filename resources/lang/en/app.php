@@ -1,0 +1,106 @@
+<?php
+return [
+    // Navigation
+    'home'          => 'Home',
+    'products'      => 'Products',
+    'cart'          => 'Cart',
+    'wishlist'      => 'Wishlist',
+    'my_orders'     => 'My Orders',
+    'login'         => 'Login',
+    'register'      => 'Register',
+    'logout'        => 'Logout',
+    'account'       => 'Account',
+    'search'        => 'Search',
+
+    // Hero
+    'hero_title'    => "Products you'll actually love using",
+    'shop_now'      => 'Shop Now',
+    'view_deals'    => 'View Deals',
+
+    // Sections
+    'shop_by_category'   => 'Shop by Category',
+    'featured_products'  => 'Featured Products',
+    'view_all'           => 'View All',
+    'items'              => 'items',
+
+    // Product
+    'add_to_cart'        => 'Add to Cart',
+    'add_to_wishlist'    => 'Add to Wishlist',
+    'in_stock'           => 'In Stock',
+    'out_of_stock'       => 'Out of Stock',
+    'low_stock'          => 'Only :count left',
+    'qty'                => 'Qty',
+    'unit_price'         => 'Unit Price',
+    'description'        => 'Description',
+    'reviews'            => 'Reviews',
+    'no_reviews'         => 'No reviews yet. Be the first!',
+    'write_review'       => 'Write a Review',
+    'submit_review'      => 'Submit Review',
+    'your_rating'        => 'Your Rating',
+    'comment'            => 'Comment',
+    'related_products'   => 'You may also like',
+
+    // Cart & Checkout
+    'your_cart'          => 'Your Cart',
+    'empty_cart'         => 'Your cart is empty',
+    'subtotal'           => 'Subtotal',
+    'total'              => 'Total',
+    'shipping'           => 'Shipping',
+    'free'               => 'Free',
+    'discount'           => 'Discount',
+    'checkout'           => 'Checkout',
+    'place_order'        => 'Place Order',
+    'shipping_address'   => 'Shipping Address',
+    'payment_method'     => 'Payment Method',
+    'order_summary'      => 'Order Summary',
+    'coupon_code'        => 'Coupon Code',
+    'apply'              => 'Apply',
+    'cod'                => 'Cash on Delivery',
+    'card'               => 'Credit / Debit Card',
+    'bank_transfer'      => 'Bank Transfer',
+
+    // Orders
+    'my_orders'          => 'My Orders',
+    'order_detail'       => 'Order Detail',
+    'no_orders'          => 'No orders yet',
+    'order_status'       => 'Order Status',
+    'payment_status'     => 'Payment Status',
+    'placed_on'          => 'Placed on',
+    'back_to_orders'     => 'Back to Orders',
+
+    // Auth
+    'welcome_back'       => 'Welcome back',
+    'login_account'      => 'Login to your account',
+    'create_account'     => 'Create an account',
+    'email'              => 'Email address',
+    'password'           => 'Password',
+    'confirm_password'   => 'Confirm Password',
+    'remember_me'        => 'Remember me',
+    'forgot_password'    => 'Forgot password?',
+    'sign_in'            => 'Sign in',
+    'no_account'         => "Don't have an account?",
+    'have_account'       => 'Already have an account?',
+    'full_name'          => 'Full Name',
+    'phone'              => 'Phone',
+    'google_signin'      => 'Sign in with Google',
+
+    // Footer
+    'contact'            => 'Contact',
+    'sale_items'         => 'Sale Items',
+    'rights_reserved'    => 'All rights reserved',
+
+    // Admin
+    'dashboard'          => 'Dashboard',
+    'admin_panel'        => 'Admin Panel',
+    'categories'         => 'Categories',
+    'brands'             => 'Brands',
+    'orders'             => 'Orders',
+    'payments'           => 'Payments',
+    'coupons'            => 'Coupons',
+    'banners'            => 'Banners',
+    'manage_stock'       => 'Manage Stock',
+    'stock_history'      => 'Stock History',
+    'customers'          => 'Customers',
+    'reports'            => 'Reports',
+    'settings'           => 'Settings',
+];

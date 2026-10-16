@@ -1,0 +1,106 @@
+<?php
+return [
+    // Navigation
+    'home'          => 'ទំព័រដើម',
+    'products'      => 'ផលិតផល',
+    'cart'          => 'កន្ត្រក',
+    'wishlist'      => 'បញ្ជីចង់បាន',
+    'my_orders'     => 'ការបញ្ជាទិញរបស់ខ្ញុំ',
+    'login'         => 'ចូល',
+    'register'      => 'ចុះឈ្មោះ',
+    'logout'        => 'ចេញ',
+    'account'       => 'គណនី',
+    'search'        => 'ស្វែងរក',
+
+    // Hero
+    'hero_title'    => 'ផលិតផលដែលអ្នកពិតជាចូលចិត្ត',
+    'shop_now'      => 'ទិញឥឡូវ',
+    'view_deals'    => 'មើលការការផ្តល់ជូន',
+
+    // Sections
+    'shop_by_category'   => 'ទិញតាមប្រភេទ',
+    'featured_products'  => 'ផលិតផលពិសេស',
+    'view_all'           => 'មើលទាំងអស់',
+    'items'              => 'មុខទំនិញ',
+
+    // Product
+    'add_to_cart'        => 'បញ្ចូលកន្ត្រក',
+    'add_to_wishlist'    => 'បញ្ចូលបញ្ជីចង់បាន',
+    'in_stock'           => 'មានក្នុងស្តុក',
+    'out_of_stock'       => 'អស់ស្តុក',
+    'low_stock'          => 'នៅសល់តែ :count ប៉ុណ្ណោះ',
+    'qty'                => 'បរិមាណ',
+    'unit_price'         => 'តម្លៃក្នុងមួយ',
+    'description'        => 'ការពិពណ៌នា',
+    'reviews'            => 'មតិ',
+    'no_reviews'         => 'មិនទាន់មានមតិទេ។ សូមចែករំលែក!',
+    'write_review'       => 'សរសេរមតិ',
+    'submit_review'      => 'ដាក់ស្នើមតិ',
+    'your_rating'        => 'ការវាយតម្លៃ',
+    'comment'            => 'មតិយោបល់',
+    'related_products'   => 'ផលិតផលដែលអ្នកអាចចូលចិត្ត',
+
+    // Cart & Checkout
+    'your_cart'          => 'កន្ត្រករបស់អ្នក',
+    'empty_cart'         => 'កន្ត្រករបស់អ្នកទទេ',
+    'subtotal'           => 'សរុបរង',
+    'total'              => 'សរុប',
+    'shipping'           => 'ដឹកជញ្ជូន',
+    'free'               => 'ឥតគិតថ្លៃ',
+    'discount'           => 'បញ្ចុះតម្លៃ',
+    'checkout'           => 'ទូទាត់',
+    'place_order'        => 'បញ្ជាទិញ',
+    'shipping_address'   => 'អាសយដ្ឋានដឹកជញ្ជូន',
+    'payment_method'     => 'វិធីទូទាត់',
+    'order_summary'      => 'សង្ខេបការបញ្ជាទិញ',
+    'coupon_code'        => 'លេខកូដប័ណ្ណបញ្ចុះតម្លៃ',
+    'apply'              => 'អនុវត្ត',
+    'cod'                => 'បង់ប្រាក់នៅពេលទទួលទំនិញ',
+    'card'               => 'កាតឥណទាន / កាតឥណពន្ធ',
+    'bank_transfer'      => 'ផ្ទេរប្រាក់ធនាគារ',
+
+    // Orders
+    'my_orders'          => 'ការបញ្ជាទិញរបស់ខ្ញុំ',
+    'order_detail'       => 'លម្អិតការបញ្ជាទិញ',
+    'no_orders'          => 'មិនទាន់មានការបញ្ជាទិញទេ',
+    'order_status'       => 'ស្ថានភាពការបញ្ជាទិញ',
+    'payment_status'     => 'ស្ថានភាពការទូទាត់',
+    'placed_on'          => 'បានបញ្ជាទិញនៅ',
+    'back_to_orders'     => 'ត្រលប់ទៅការបញ្ជាទិញ',
+
+    // Auth
+    'welcome_back'       => 'សូមស្វាគមន៍',
+    'login_account'      => 'ចូលគណនីរបស់អ្នក',
+    'create_account'     => 'បង្កើតគណនី',
+    'email'              => 'អ៊ីមែល',
+    'password'           => 'លេខសំងាត់',
+    'confirm_password'   => 'បញ្ជាក់លេខសំងាត់',
+    'remember_me'        => 'ចងចាំខ្ញុំ',
+    'forgot_password'    => 'ភ្លេចលេខសំងាត់?',
+    'sign_in'            => 'ចូល',
+    'no_account'         => 'មិនទាន់មានគណនីទេ?',
+    'have_account'       => 'មានគណនីរួចហើយ?',
+    'full_name'          => 'ឈ្មោះពេញ',
+    'phone'              => 'លេខទូរស័ព្ទ',
+    'google_signin'      => 'ចូលដោយ Google',
+
+    // Footer
+    'contact'            => 'ទំនាក់ទំនង',
+    'sale_items'         => 'ទំនិញបញ្ចុះតម្លៃ',
+    'rights_reserved'    => 'រក្សាសិទ្ធិទាំងអស់',
+
+    // Admin
+    'dashboard'          => 'ផ្ទាំងគ្រប់គ្រង',
+    'admin_panel'        => 'ផ្ទាំងអ្នកគ្រប់គ្រង',
+    'categories'         => 'ប្រភេទ',
+    'brands'             => 'ម៉ាក',
+    'orders'             => 'ការបញ្ជាទិញ',
+    'payments'           => 'ការទូទាត់',
+    'coupons'            => 'គូប៉ុង',
+    'banners'            => 'ផ្ទាំងបដា',
+    'manage_stock'       => 'គ្រប់គ្រងស្តុក',
+    'stock_history'      => 'ប្រវត្តិស្តុក',
+    'customers'          => 'អតិថិជន',
+    'reports'            => 'របាយការណ៍',
+    'settings'           => 'ការកំណត់',
+];
